@@ -1,0 +1,13 @@
+{
+  "sourceType": "evidencePack",
+  "inputFolder": "demo-inputs/software-vendor-pack",
+  "reviewType": "Initial Review",
+  "businessUnit": "Technology",
+  "businessOwner": "To be confirmed",
+  "technicalOwner": "To be confirmed",
+  "reviewerName": "Meraz",
+  "vendorCriticality": "High",
+  "dataSensitivity": "Confidential business data",
+  "organisationUseCase": "The organisation is assessing this vendor for a third party security review. Final service usage must be confirmed by the reviewer.",
+  "nextReviewDate": "To be confirmed"
+}
